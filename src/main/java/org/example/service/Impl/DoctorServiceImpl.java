@@ -1,4 +1,4 @@
-package org.example.Impl;
+package org.example.service.Impl;
 
 public class DoctorServiceImpl {
 }
